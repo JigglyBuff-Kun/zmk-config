@@ -22,3 +22,5 @@ include:
     shield: domino_left
   - board: nice_nano_v2
     shield: domino_right
+  - board: nice_nano_v2
+    shield: settings_reset
